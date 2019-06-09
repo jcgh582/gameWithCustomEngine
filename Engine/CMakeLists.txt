@@ -1,0 +1,1 @@
+add_library(Engine SHARED src/Engine/Application.cpp src/Engine/Application.h src/Engine/EntryPoint.h)
